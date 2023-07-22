@@ -1,7 +1,7 @@
 {
-  "name": "mdev1004-m2023-assignment3",
+  "name": "assignment3-livesite",
   "version": "0.0.3",
-  "description": "this is a demo project for mdev1004-m2023-assignment3  - in the summer 2023 semester at Georgian",
+  "description": "this is a demo project for assignment3-livesite  - in the summer 2023 semester at Georgian",
   "author": "Diksha Patel, Namrata Savaliya",
   "engines": {
     "node": "20.2.0",
